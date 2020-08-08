@@ -44,7 +44,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(535, 172);
             this.button1.TabIndex = 0;
-            this.button1.Text = "bokita el mas grande";
+            this.button1.Text = "bokita el mas chico";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
